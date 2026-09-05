@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Ravi! (iamravi8755-ui)
 
-<!--
-**iamravi8755-ui/iamravi8755-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer focused on building modern web applications and exploring the power of open-source operating systems. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 Currently learning **Full-Stack Web Development**.
+* 🐧 Enthusiastic **Linux Learner** exploring command line, scripting, and system administration.
+* 💻 Open to collaborating on open-source web development projects.
+* 🎯 My goal is to build efficient, scalable, and user-friendly web solutions.
+
+### 🛠️ Tech Stack & Skills (In Progress)
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **OS & Tools:** Linux (Ubuntu/Debian), Git, GitHub
+
+### 📈 Tools I Use
+
+* Visual Studio Code
+* Linux Terminal
+
+*“The beautiful thing about learning is nobody can take it away from you.” — B.B. King*
